@@ -27,3 +27,8 @@ echo $y
 
 z=$(((c+a)/b))
 echo $z
+
+#UC_05: Compute a%b+c
+
+t=$((a%(b+c)))
+echo $u
