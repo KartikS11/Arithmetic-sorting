@@ -17,3 +17,8 @@ read c
 
 x=$(((a+b)*c))
 echo $x
+
+#UC_03: Compute a*b+c
+
+y=$((a*(b+c)))
+echo $y
